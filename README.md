@@ -18,3 +18,16 @@ A Colorado Board of Elections employee has given you the following taks to compl
 This image is to show results of the audit that has been performed
 
 <img width="686" alt="Screen Shot 2022-11-01 at 1 23 55 PM" src="https://user-images.githubusercontent.com/114188120/199297897-c13bcac7-521f-4922-bb89-01745915bdd3.png">
+
+The Analysis of the election show the following:
+- There were 369,711 votes cast in the election
+- The candidates were
+    -   Charles Casper Stockham
+    -   Diana Degette
+    -   Raymon Anthony Doane
+- The candidate results were
+    -   Charles Casper Stockham received "23%" percent of the vote and "85,213" total votes.
+    -   Diana Degette received "73.8%" of the votes and "272,892" total votes.
+    -   Raymon Anthony Doane received "3.1%" of the votes and "11,606" total votes.
+- The winner of the election was:
+    -   "Dianne Degette" receiving "73.8%" of the vote and "272,892" total votes in this election.
