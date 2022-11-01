@@ -17,6 +17,9 @@ A Colorado Board of Elections employee has given you the following taks to compl
 
 This image is to show results of the audit that has been performed
 
+<img width="351" alt="Screen Shot 2022-11-01 at 2 23 04 PM" src="https://user-images.githubusercontent.com/114188120/199309506-717e0e45-7d8b-4abc-ab34-96f9a04564a0.png">
+
+
 
 
 The Analysis of the election show the following:
