@@ -17,7 +17,7 @@ A Colorado Board of Elections employee has given you the following taks to compl
 
 This image is to show results of the audit that has been performed
 
-<img width="686" alt="Screen Shot 2022-11-01 at 1 23 55 PM" src="https://user-images.githubusercontent.com/114188120/199297897-c13bcac7-521f-4922-bb89-01745915bdd3.png">
+
 
 The Analysis of the election show the following:
 - There were 369,711 votes cast in the election
