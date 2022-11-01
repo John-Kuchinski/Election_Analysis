@@ -36,3 +36,13 @@ The Analysis of the election show the following:
     -   "Dianne Degette" receiving "73.8%" of the vote and "272,892" total votes in this election.
 
 ## Challenge Summary
+
+We can gather quite a bit of data from the audit that we just ran. We are able to see that Denver had the largest turnout as a county in total number of voters. We are able to keep totals of the votes each candidate received along with the percentage of the total votes received as well. This allows us to determine with confidence who the winner of the election was based on total votes cast.
+
+The conclusion that we reached is that Diane Degette is the winner of the election with almost 3/4 of the total vote with 73.8% of the vote and a total of 272,892 votes, some would call this a landslide victory.
+
+There are multiple uses of this information that can lead us to ask more questions in the future using similar analysis for future elections and cadidates, i.e. "How was this candidate so successful?", "How did she reach this large of an audience?", "What were her platforms?", "What were her campaign strategies, ads, promotions?", etc. This allows us to go even further in detail into this analysis in the future in order to potentially help other candidates in future elections in order to greratly increase their chances of victory. 
+
+Using Python to assist in this analysis allowed us to filter through a very large data set and to do it relatively quickly. It allowed us to present the information gathered in a very simple form to where it can be interpreted easily and quickly (which is always what our clients will want).
+
+This module was very challenging but I look forward to learning and growing more in these skills as to be able to complete these type of projects more efficiently.
