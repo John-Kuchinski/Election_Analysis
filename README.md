@@ -1,3 +1,20 @@
 # Election_Analysis
-Help Tom analyze election results
+
+## Project Overview
+A Colorado Board of Elections employee has given you the following taks to complete the election audit of a recent local congressional election.
+
+1. Calculate the total number of votes cast
+2. Get a complete list of candidates  who received votes.
+3. Calculate the total number of votes each candidate received.
+4. Calculate the percentage of votes each candidate won
+5. Determine the winner of the election based on popular vote.
+
+## Resources
+- Data Source: elections_results.csv
+- Software: Python 3.7.13, Visual Studio Code 1.68.1
+
+## Summary
+
+This image is to show results of the audit that has been performed
+
 <img width="686" alt="Screen Shot 2022-11-01 at 1 23 55 PM" src="https://user-images.githubusercontent.com/114188120/199297897-c13bcac7-521f-4922-bb89-01745915bdd3.png">
